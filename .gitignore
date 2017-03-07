@@ -179,8 +179,3 @@ $RECYCLE.BIN/
 
 # SASS Compiler cache
 .sass-cache
-
-# Visual Studio 2014 CTP
-**/*.sln.ide
-*.png
-*.avi
